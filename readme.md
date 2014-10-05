@@ -17,6 +17,10 @@ This document introduces
 
 ### Step 0 ###
 
++ Go to https://developer.worldweatheronline.com/ and register for a new acount.
++ Get an Free API key.
++ Explore the API. Syudy both the *JSON* and *XML* formats.
+
 ### Step 1 ###
 
 FILE : *getmeteo.html*
@@ -26,9 +30,20 @@ FILE : *dump.php*
 > This file should write a *dump* of the values that are received as form fiels via the *GET* and *POST* methods in PHP.
 
 TEST :
-> Test the *dump.php* either with URL encoded data either with the *getmeteo.html*
+> Test the *dump.php* either with URL encoded data either with the *getmeteo.html*.
 
-### Step 1 ###
+### Step 2 ###
+STUDY : *SimpleXML* php API
+> how to instantiate an object.
+> how to search / navigate
+
+STUDY : *json_encode* and *json_decode()* functions.
+
+
+
+### Step 3 ###
+
+
 
 
 
