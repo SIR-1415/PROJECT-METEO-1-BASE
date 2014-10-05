@@ -1,5 +1,10 @@
 # Project METEO 1 #
-This document introduces 
+This is the first pratical exercise to be worked on classes.
+
+Notice that it makes use of many new concepts that wil be explained through the development.
+
+With this exercise it is intended to write a *Web* page that is able to receive a location as the user input and to give as the result the weather current condition (and forecast) for that location. This is made using an external weather web API.
+
 
 ## Goals ##
 1. design a very basic *HTML* form
@@ -58,10 +63,10 @@ FILE: *getmeteoXML.php*
 
 ### Step 3 ###
 FILE : *getmeteo.html*
-point the form action into *getmeteoJSON.php* and/or to *getmeteoXML.php*
+>point the form action into *getmeteoJSON.php* and/or to *getmeteoXML.php*
 
 FILE: *meteostyle.css*
-write a simple CSS style sheet to enhance visual presentation of the results.
+>write a simple CSS style sheet to enhance visual presentation of the results.
 
 
 
