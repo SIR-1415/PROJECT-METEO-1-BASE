@@ -45,9 +45,24 @@ STUDY : *SimpleXML* php API
 
 STUDY : *json_encode* and *json_decode()* functions.
 
+FILE : *getmeteoJSON.php* v1.
+> write a file that receives a GET *location* parameter and requests weather
+forecast information from the worlweatheronline API in JSON format.
+> the file should dump the result string/object to the output.
 
+FILE: *getmeteoJSON.php* v2.
+> write the code to extract current waether status (temperature, humidity, precipitation, status, etc) and write them into a propor html format (eg. list).
+
+FILE: *getmeteoXML.php*
+> same as the previous, but using XML instead.
 
 ### Step 3 ###
+FILE : *getmeteo.html*
+point the form action into *getmeteoJSON.php* and/or to *getmeteoXML.php*
+
+FILE: *meteostyle.css*
+write a simple CSS style sheet to enhance visual presentation of the results.
+
 
 
 
