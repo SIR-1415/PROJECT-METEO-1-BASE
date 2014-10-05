@@ -18,7 +18,7 @@ This document introduces
 ### Step 0 ###
 
 + Go to https://developer.worldweatheronline.com/ and register for a new acount.
-+ Get an Free API key.
++ Get a Free API key.
 + Explore the API. Syudy both the *JSON* and *XML* formats.
 
 ### Step 1 ###
@@ -33,6 +33,9 @@ TEST :
 > Test the *dump.php* either with URL encoded data either with the *getmeteo.html*.
 
 ### Step 2 ###
+STUDY : *file_get_contents()* and *cURL*
+> notice that: *file_get_contents()* is a handy function to make *GET* requests and grab the response in a string.
+> notice that: cURL is much more powerful library able to communicate with servers under different types of internet protocols.
 STUDY : *SimpleXML* php API
 > how to instantiate an object.
 > how to search / navigate
