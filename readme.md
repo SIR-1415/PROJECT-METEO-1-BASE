@@ -35,9 +35,12 @@ TEST :
 ### Step 2 ###
 STUDY : *file_get_contents()* and *cURL*
 > notice that: *file_get_contents()* is a handy function to make *GET* requests and grab the response in a string.
+
 > notice that: cURL is much more powerful library able to communicate with servers under different types of internet protocols.
+
 STUDY : *SimpleXML* php API
 > how to instantiate an object.
+
 > how to search / navigate
 
 STUDY : *json_encode* and *json_decode()* functions.
